@@ -62,23 +62,23 @@ Each record represents a customer with features like:
 
 ### Dataset Preview
 
-![Dataset](images/dataset.png)
-
-### Data Summary
-
-![Info](images/info.png)
+![Dataset](Images/dataset.png)
 
 ### Preprocessing
 
-![Preprocessing](images/preprocessing.png)
+![Preprocessing](Images/preprocessing.png)
+
+### Scaling
+
+![Info](Images/scaling.png)
 
 ### Elbow Method
 
-![Elbow](images/elbow.png)
+![Elbow](Images/elbow.png)
 
 ### Customer Clusters
 
-![Clusters](images/clusters.png)
+![Clusters](Images/clusters.png)
 
 ---
 
